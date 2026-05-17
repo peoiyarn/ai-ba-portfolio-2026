@@ -31,12 +31,12 @@ A mid-sized payments fintech was onboarding new customers across five disconnect
 
 | Stage | Artifact | What it shows |
 |---|---|---|
-| 1. Discovery plan | [`01_discovery_plan.md`](01_discovery_plan.md) | The riskiest assumption named explicitly: that compliance review time can be reduced without increasing KYC/AML false-negative rate — with a 3-check, 30-day verification protocol |
-| 2. Stakeholder synthesis | [`02_themes.md`](02_themes.md) | 5 orthogonal themes with verbatim quote citations, persona attribution, and BABOK v3 area mapping |
-| 3. Requirements + BRD section | [`03_user_stories.md`](03_user_stories.md) | 5 user stories with 6–7 Given/When/Then acceptance criteria each — including happy path, negative path, accessibility (WCAG 2.2 AA), and performance (sourced only) |
-| 4. BPMN (validated) | [`04_bpmn_validated.md`](04_bpmn_validated.md) | BPMN-from-text across 6 swimlanes + 6-error validation checklist with 7 corrections documented |
-| 5. Process mining | [`05_opportunities.md`](05_opportunities.md) | 1 bottleneck + 1 rework loop identified; 3 BRD-ready opportunities in metric / baseline / target / intervention / evidence format |
-| 6. Evals + governance | [`06_eval_and_governance.md`](06_eval_and_governance.md) | 10-input golden set (4 happy path, 3 edge, 2 adversarial, 1 out-of-scope) + 4-dimension rubric (Accuracy / Tone / Safety / Citation) + 2 domain-specific governance risks (EU AI Act Annex III point 5(b) + ECOA/Reg B disparate treatment) with pre-ship mitigations |
+| 1. Discovery plan | [`01_discovery_plan.md`](/Day4_Capstone/01_discovery_plan.md) | The riskiest assumption named explicitly: that compliance review time can be reduced without increasing KYC/AML false-negative rate — with a 3-check, 30-day verification protocol |
+| 2. Stakeholder synthesis | [`02_themes.md`](/Day4_Capstone/02_themes.md) | 5 orthogonal themes with verbatim quote citations, persona attribution, and BABOK v3 area mapping |
+| 3. Requirements + BRD section | [`03_user_stories.md`](/Day4_Capstone/03_user_stories.md) | 5 user stories with 6–7 Given/When/Then acceptance criteria each — including happy path, negative path, accessibility (WCAG 2.2 AA), and performance (sourced only) |
+| 4. BPMN (validated) | [`04_bpmn_validated.md`](/Day4_Capstone/04_bpmn_validated.md) | BPMN-from-text across 6 swimlanes + 6-error validation checklist with 7 corrections documented |
+| 5. Process mining | [`05_opportunities.md`](/Day4_Capstone/05_opportunities.md) | 1 bottleneck + 1 rework loop identified; 3 BRD-ready opportunities in metric / baseline / target / intervention / evidence format |
+| 6. Evals + governance | [`06_eval_and_governance.md`](/Day4_Capstone/06_eval_and_governance.md) | 10-input golden set (4 happy path, 3 edge, 2 adversarial, 1 out-of-scope) + 4-dimension rubric (Accuracy / Tone / Safety / Citation) + 2 domain-specific governance risks (EU AI Act Annex III point 5(b) + ECOA/Reg B disparate treatment) with pre-ship mitigations |
 
 ---
 
