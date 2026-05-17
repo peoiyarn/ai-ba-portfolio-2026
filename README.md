@@ -85,6 +85,7 @@ If you want to re-run this work yourself:
 
 ## About me
 Samantha Kong, Product Management, https://www.linkedin.com/in/peoiyarn/
+
 Built as part of the [Techademy AI for Business Analysts Bootcamp](https://techademy.com/ai-for-ba) · May 2026. Feedback welcome — open an issue or DM on LinkedIn.
 
 ---
